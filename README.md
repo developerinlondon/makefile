@@ -1,2 +1,2 @@
 # makefile
-Sample Empty Makefile
+Sample Empty Makefile with a help function that shows the different targets.
